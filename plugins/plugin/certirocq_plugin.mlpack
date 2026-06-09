@@ -164,6 +164,8 @@ EReorderCstrs
 ERemapInductives
 EBeta
 ECoInductiveToInductive
+EConstantsToValues
+EImplementBox
 ETransform
 Erasure0
 
@@ -259,6 +261,7 @@ LambdaANF_to_Wasm
 Toplevel1
 Glue_utils
 Glue
+Metarocq_pipeline
 Pipeline
 Certirocq
 G_certirocq
