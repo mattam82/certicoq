@@ -164,8 +164,9 @@ EReorderCstrs
 ERemapInductives
 EBeta
 ECoInductiveToInductive
-EConstantsToValues
 EImplementBox
+EImplementLazyForce
+EConstantsToValues
 ETransform
 Erasure0
 

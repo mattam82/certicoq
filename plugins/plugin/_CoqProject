@@ -161,6 +161,8 @@ extraction/eGlobalEnv.ml
 extraction/eGlobalEnv.mli
 extraction/eImplementBox.ml
 extraction/eImplementBox.mli
+extraction/eImplementLazyForce.ml
+extraction/eImplementLazyForce.mli
 extraction/eInduction.ml
 extraction/eInduction.mli
 extraction/eInlineProjections.ml
